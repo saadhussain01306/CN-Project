@@ -1,0 +1,15 @@
+---------0->1------------
+sent_packets	 5461
+received_packets 5444
+Packet Loss 17
+Average Throughput[kbps] = 333.66	StartTime=10.00	StopTime = 148.34
+---------2->3------------
+sent_packets	 1107
+received_packets 1079
+Packet Loss 28
+Average Throughput[kbps] = 115.07	StartTime=10.00	StopTime = 89.45
+---------4->5------------
+sent_packets	 181
+received_packets 161
+Packet Loss 20
+Average Throughput[kbps] = 19.58	StartTime=10.00	StopTime = 79.31
