@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-  <title>NS2 Simulation Project</title>
-</head>
-
 <body>
 
   <h1>NS2 Simulation Project</h1>
