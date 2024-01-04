@@ -56,7 +56,7 @@ ns wireless.tcl
 
   <h2>Results and Analysis</h2>
 
-  <p>Results and analysis of the simulations are presented in the project report. Refer to the <a href="link-to-report">project
+  <p>Results and analysis of the simulations are presented in the project report. Refer to the <a href="NS2 Simulation Project Report.pdf">project
       report</a> for detailed insights.</p>
 
   <h2>Conclusion</h2>
